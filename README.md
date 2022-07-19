@@ -9,7 +9,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitter.com/Santana_ZK1)
 
 <div align="center">
-  <a href="https://github.com/Miguel-Santana">
+  <a href="https://github.com/SouzaDev013">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaDev013&show_icons=false&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDev013&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
