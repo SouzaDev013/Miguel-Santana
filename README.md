@@ -2,7 +2,7 @@
 
 - 🌀Estou estudando back-end e front-end.
 - 📝Trabalhando com HTML  | CSS | SASS | JAVASCRIPT
-- 💌(email) diegocanalyt234@gmail.com
+- 💌(email) ms3772209@gmail.com
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnr0JeCN_R1RnzG6Yn7lvIw/channels)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1guel_rlk/)
