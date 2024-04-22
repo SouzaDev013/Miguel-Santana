@@ -1,4 +1,4 @@
-# Oiie! Eu sou o Miguel-Santana.
+# Eae! Eu sou o Miguel-Santana.
 
 - 🌀Estou estudando back-end e front-end.
 - 📝Trabalhando com HTML  | CSS | SASS | JAVASCRIPT
